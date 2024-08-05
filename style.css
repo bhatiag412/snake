@@ -1,0 +1,20 @@
+#gameboard{
+    border: 2px solid;
+}
+#gamecont{
+    text-align: center;
+}
+#score{
+    font-family: consolas;
+    font-size: 100px;
+    cursor: not-allowed;
+}
+button{
+    font-family: consolas;
+    font-size: 20px;
+    width: 150px;
+    border: 3px solid;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
